@@ -8,7 +8,7 @@ This repository contains a PyTorch Lightning-based Convolutional Variational Aut
 
 Below is a high-level flowchart of the data processing pipeline and model architecture:
 
-![ChaosBench Era5 Dataset Processing Flowchart](diagram-export-3-19-2025-5_25_25-PM.png)
+![ChaosBench Era5 Dataset Processing Flowchart](diagram.png)
 
 1. **Preprocessing**: Takes raw ERA5 data and converts it into CSV files with the required structure.
 2. **Dataset & DataModule**:
